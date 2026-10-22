@@ -1,16 +1,14 @@
-## Hi there 👋
+# 0x4rmiT4g3
 
-<!--
-**0x4rmiT4g3/0x4rmiT4g3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Helpdesk manager, working toward SOC / CTI. BTL1 in progress.
 
-Here are some ideas to get you started:
+I run a Cowrie honeypot and write the Python pipeline behind it: ingestion into PostgreSQL, ASN enrichment, scanner filtering (MISP warninglists, FCrDNS), and
+extraction of payload URLs from captured sessions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in malware analysis, Threat Intelligence, Windows internals and kernel debugging. Lately reading about LLM-assisted vulnerability research.
+
+Also wrote a small bot relaying ThreatFox IOCs to Telegram.
+
+Python, Bash, PostgreSQL, IDA, WinDbg.
+
+X: [@0x4rmiT4g3](https://x.com/0x4rmiT4g3)
